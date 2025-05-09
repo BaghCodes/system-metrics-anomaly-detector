@@ -44,3 +44,34 @@ This project provides a Jupyter Notebook for monitoring and analyzing system res
 
 1. Clone this repository.
 2. Install dependencies:
+```bash
+pip install pandas psutil matplotlib
+```
+3. Open the notebook (`anomaly.ipynb`) in Jupyter.
+4. Run the cells to monitor and analyze your system's resource usage.
+
+---
+
+## Applications
+
+- Real-time system monitoring
+- Anomaly detection for performance troubleshooting
+- Data collection for capacity planning
+
+---
+
+## License
+
+This project is open source and available under the MIT License.
+
+---
+
+## Acknowledgments
+
+- Built using open-source Python libraries.
+- Inspired by the need for simple, effective anomaly detection in system resource monitoring.
+
+---
+
+*For questions or contributions, please open an issue or submit a pull request.*
+
