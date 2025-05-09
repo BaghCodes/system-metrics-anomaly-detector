@@ -21,15 +21,6 @@ This project provides a Jupyter Notebook for monitoring and analyzing system res
 
 ---
 
-## Example Output
-
-| Metric   | Count | Mean    | Std Dev | Min   | 25%    | 50%    | 75%    | Max      |
-|----------|-------|---------|---------|-------|--------|--------|--------|----------|
-| CPU      | 1440  | 20.48   | 8.12    | 4.29  | 16.45  | 19.96  | 23.45  | 99.83    |
-| RAM      | 1440  | 40.44   | 10.94   | 8.07  | 33.39  | 40.28  | 47.09  | 99.53    |
-| Disk     | 1440  | 103713  | 45568   | 38584 | 87073  | 100322 | 113650 | 681443   |
-| Network  | 1440  | 208337  | 100257  | 42163 | 168428 | 201591 | 234745 | 1481568  |
-
 **Sample Data with Z-Scores**
 
 | Timestamp           | CPU   | RAM   | Disk      | Network   | Z-Score CPU | Z-Score RAM |
